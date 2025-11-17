@@ -30,6 +30,7 @@ Create a directory named "my-folder"
 
 Remove the directory "my-folder"
 
+![Uploading Screenshot 2025-11-17 102905.png…]()
 
 
 
